@@ -1,4 +1,4 @@
-// ek generation se dusri generation mein pass karna 
+//  ek generation se dusri generation mein pass karna 
 // ek class ki properties jab dusri class lena chahti hai toh uss process ko hum kehte hain inheritence
 
 // class Shape{
