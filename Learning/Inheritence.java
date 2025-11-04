@@ -7,7 +7,7 @@
 // }
 
 // class Triangle extends Shape{
-         
+        
 // }
 
 // public class Inheritance {
